@@ -35,6 +35,17 @@
 
 ---
 
+### Currently
+
+```yaml
+Learning: Advanced React patterns, System Design basics
+Building: Shikshya Sathi (SIH 2026)
+Looking for: Remote Web Dev Internships
+Ask me about: Frontend, Firebase, Canvas API, DSA in Java
+```
+
+---
+
 ### Featured Projects
 
 **[Shutterstrip](https://github.com/jai-official/shutterstrip)** — Browser-based photobooth app  
@@ -44,6 +55,14 @@ Built with vanilla JS, Canvas API & MediaDevices API. Multiple layouts, live fil
 Gamified task/habit tracker powered by Firebase Firestore.
 
 > Update the repo links above to match your actual repo names/URLs.
+
+---
+
+### Trophy Case
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=jai-official&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -61,6 +80,18 @@ Gamified task/habit tracker powered by Firebase Firestore.
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jai-official&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
+
+---
+
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jai-official/jai-official/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚙️ This animated snake needs a one-time GitHub Action setup — instructions below.
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jai-official&color=58A6FF&style=flat-square&label=Profile+Views" />
